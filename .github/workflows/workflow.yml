@@ -1,4 +1,6 @@
 {
+on:
+  workflow_dispatch:
   "Version": "2012-10-17",
   "Statement": [
     {
